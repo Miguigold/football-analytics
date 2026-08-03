@@ -1,0 +1,18 @@
+package com.macosta.footballanalytics.enums;
+
+public enum PlayerPosition {
+    GOALKEEPER,
+    LEFT_BACK,
+    CENTER_BACK,
+    RIGHT_BACK,
+    LEFT_WINGBACK,
+    RIGHT_WINGBACK,
+    LEFT_MIDFIELDER,
+    DEFENSIVE_MIDFIELDER,
+    CENTRAL_MIDFIELDER,
+    RIGHT_MIDFIELDER,
+    ATTACKING_MIDFIELDER,
+    LEFT_WINGER,
+    STRIKER,
+    RIGHT_WINGER
+}
